@@ -1,0 +1,11 @@
+.env
+.DS_Store
+
+# Go build
+bin/
+*.exe
+*.out
+
+# IDE
+.idea/
+.vscode/
